@@ -1,0 +1,25 @@
+{
+  "name": "blogger",
+  "version": "1.0.0",
+  "description": "Me fail english? That's unpossible!",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs --port 3200"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/windyard/blogger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/windyard/blogger/issues"
+  },
+  "homepage": "https://github.com/windyard/blogger#readme",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.2",
+    "vue": "^3.2.37"
+  }
+}
